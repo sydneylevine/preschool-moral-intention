@@ -1,0 +1,85 @@
+﻿subjectnumber,should,pinkscale,condition,study,gender,dob,dot,age
+P2014-251,0,-2,Means+Stealing,Study 1,F,5/22/09,2/27/15,5.77260274
+P2014-252,1,1,Means+Stealing,Study 1,M,7/20/09,2/27/15,5.610958904
+P2014-254,0,-1,Means+Stealing,Study 1,M,4/27/09,2/27/15,5.84109589
+P2015-10,0,-2,Means+Stealing,Study 1,M,8/12/10,2/25/15,4.542465753
+P2015-102,0,-2,Means+Stealing,Study 1,F,2/19/11,4/29/15,4.191780822
+P2015-116,0,-2,Means+Stealing,Study 1,F,12/4/10,5/13/15,4.44109589
+P2015-120,0,-1,Means+Stealing,Study 1,M,11/18/09,5/13/15,5.484931507
+P2015-125,0,-2,Means+Stealing,Study 1,M,4/19/10,5/21/15,5.090410959
+P2015-129,0,0,Means+Stealing,Study 1,,,,
+P2015-131,0,-1,Means+Stealing,Study 1,M,2/15/10,5/21/15,5.263013699
+P2015-14,0,0,Means+Stealing,Study 1,F,2/18/11,2/25/15,4.021917808
+P2015-157,0,-1,Means+Stealing,Study 1,M,4/5/10,6/25/15,5.224657534
+P2015-171,0,-2,Means+Stealing,Study 1,F,6/4/10,7/13/15,5.109589041
+P2015-174,0,1,Means+Stealing,Study 1,M,2/28/11,7/13/15,4.37260274
+P2015-188,0,0,Means+Stealing,Study 1,F,2/20/11,7/15/15,4.4
+P2015-192,0,-2,Means+Stealing,Study 1,M,11/11/10,7/22/15,4.695890411
+P2015-194,0,1,Means+Stealing,Study 1,M,11/7/10,7/22/15,4.706849315
+P2015-196,0,-2,Means+Stealing,Study 1,M,4/10/10,7/22/15,5.284931507
+P2015-198,0,-2,Means+Stealing,Study 1,F,7/24/10,7/27/15,5.010958904
+P2015-200,0,-1,Means+Stealing,Study 1,F,10/6/10,7/27/15,4.808219178
+P2015-3,0,-2,Means+Stealing,Study 1,M,7/22/11,2/25/15,3.6
+P2015-50,0,-1,Means+Stealing,Study 1,M,10/13/10,2/26/15,4.375342466
+P2015-51,0,-1,Means+Stealing,Study 1,F,10/8/10,2/26/15,4.389041096
+P2015-53,1,2,Means+Stealing,Study 1,F,10/1/10,2/26/15,4.408219178
+P2015-57,0,-1,Means+Stealing,Study 1,F,4/26/10,2/25/15,4.838356164
+P2015-58,0,-2,Means+Stealing,Study 1,M,3/3/10,2/25/15,4.98630137
+P2015-59,1,2,Means+Stealing,Study 1,F,9/10/09,2/27/15,5.468493151
+P2015-60,0,-1,Means+Stealing,Study 1,M,8/17/09,2/27/15,5.534246575
+P2015-61,0,-1,Means+Stealing,Study 1,M,3/3/09,2/27/15,5.991780822
+P2015-62,0,-1,Means+Stealing,Study 1,F,12/3/09,4/20/15,5.380821918
+P2015-67,0,-2,Means+Stealing,Study 1,F,9/14/10,4/20/15,4.6
+P2015-69,0,-1,Means+Stealing,Study 1,M,9/9/09,4/20/14,4.61369863
+P2015-73,0,-2,Means+Stealing,Study 1,F,1/29/11,4/15/15,4.210958904
+P2015-74,0,-2,Means+Stealing,Study 1,F,1/29/11,4/15/15,4.210958904
+P2015-75,1,0,Means+Stealing,Study 1,M,9/3/11,4/15/15,3.616438356
+P2015-76,1,2,Means+Stealing,Study 1,F,6/10/11,4/15/15,3.849315068
+P2015-77,0,-2,Means+Stealing,Study 1,M,3/15/11,4/15/15,4.087671233
+P2015-78,0,-2,Means+Stealing,Study 1,F,8/10/10,4/15/15,4.682191781
+P2015-88,0,-1,Means+Stealing,Study 1,,,,
+P2015-89,0,-1,Means+Stealing,Study 1,F,10/19/10,5/21/15,4.589041096
+P2015-98,0,-1,Means+Stealing,Study 1,F,2/17/10,4/29/15,5.197260274
+P2015-99,0,-2,Means+Stealing,Study 1,F,1/22/10,4/29/15,5.268493151
+1,1,2,Implied Consent,Study 2,F,2/20/14,11/20/18,4.750684932
+3,0,-1,Implied Consent,Study 2,F,12/5/12,11/25/18,5.975342466
+4,0,-1,Implied Consent,Study 2,F,11/24/12,11/25/18,6.005479452
+6,0,0,Implied Consent,Study 2,F,5/9/14,11/25/18,4.550684932
+8,0,-1,Implied Consent,Study 2,M,4/26/14,12/2/18,4.605479452
+10,0,2,Implied Consent,Study 2,F,9/14/12,12/2/18,6.219178082
+12,0,-1,Implied Consent,Study 2,M,2/17/13,12/2/18,5.791780822
+13,1,0,Implied Consent,Study 2,F,3/4/13,12/9/18,5.769863014
+16,1,0,Implied Consent,Study 2,F,3/14/14,12/9/18,4.742465753
+17,0,-2,Implied Consent,Study 2,F,2/12/14,12/9/18,4.824657534
+18,0,-1,Implied Consent,Study 2,M,,12/9/18,
+19,0,-1,Implied Consent,Study 2,M,4/10/13,12/9/18,5.668493151
+20,0,-1,Implied Consent,Study 2,M,4/4/13,12/9/18,5.684931507
+21,1,0,Implied Consent,Study 2,F,22-Dec,12/9/18,4.967123288
+23,1,0,Implied Consent,Study 2,F,8/18/13,2/10/19,5.484931507
+24,0,0,Implied Consent,Study 2,M,8/26/14,2/10/19,4.463013699
+25,0,-2,Implied Consent,Study 2,M,8/19/15,2/24/19,3.520547945
+26,0,-1,Implied Consent,Study 2,F,4/24/13,2/24/19,5.84109589
+28,0,-1,Implied Consent,Study 2,M,9/23/14,2/24/19,4.424657534
+29,0,-1,Implied Consent,Study 2,M,6/13/13,2/24/19,5.704109589
+31,0,-2,Implied Consent,Study 2,F,3/25/15,3/3/19,3.942465753
+32,0,-1,Implied Consent,Study 2,M,10/14/14,3/3/19,4.38630137
+37,0,0,Implied Consent,Study 2,M,10/23/13,3/10/19,5.380821918
+38,1,-2,Implied Consent,Study 2,F,2/3/14,3/10/19,5.098630137
+39,1,-2,Implied Consent,Study 2,F,2/13/15,3/10/19,4.071232877
+40,1,0,Implied Consent,Study 2,F,7/24/14,3/10/19,4.630136986
+44,1,0,Implied Consent,Study 2,M,3/29/15,10-Mar,3.950684932
+45,0,2,Implied Consent,Study 2,F,9/25/13,3/17/19,5.476712329
+46,1,0,Implied Consent,Study 2,M,9/3/15,17-Mar,3.536986301
+47,1,2,Implied Consent,Study 2,F,11/27/14,3/17/19,4.304109589
+48,1,0,Implied Consent,Study 2,M,3/27/15,3/17/19,3.975342466
+50,1,2,Implied Consent,Study 2,M,4/25/14,3/29/19,4.928767123
+51,0,-1,Implied Consent,Study 2,M,8/10/14,3/29/19,4.635616438
+52,1,0,Implied Consent,Study 2,F,7/20/13,3/29/19,5.693150685
+53,0,-2,Implied Consent,Study 2,F,6/13/14,3/29/19,4.794520548
+54,0,-2,Implied Consent,Study 2,M,12/21/13,3/29/19,5.271232877
+55,0,-1,Implied Consent,Study 2,M,7/10/14,3/29/19,4.720547945
+56,1,1,Implied Consent,Study 2,F,3/20/14,4/5/19,5.046575342
+57,0,0,Implied Consent,Study 2,F,2/10/15,4/5/19,4.150684932
+59,0,1,Implied Consent,Study 2,F,6/24/14,4/5/19,4.783561644
+62,0,0,Implied Consent,Study 2,M,12/27/14,4/5/19,4.273972603
+64,1,0,Implied Consent,Study 2,F,9/15/13,6/8/18,4.731506849
